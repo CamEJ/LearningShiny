@@ -1,2 +1,2 @@
-# camillathorn85-gmail.com
+# Learning Shiny
 LearningShiny
